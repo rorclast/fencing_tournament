@@ -1,9 +1,7 @@
 # fencing_tournament
-A Python 3 solution to a fencing tournament problem (inside a Laravel 5 project)
+A Laravel 5 project to create test cases for a fencing tournament problem.
 
-The problem description is found in the file FencingTournament.pdf and it's solution
-in FencingTournament.py. There's also an artisan command to generate test cases for
-the problem. To create a test case:
+To create a test case:
 
   (1) clone the repo,
   (2) install composer (if it's not installed),
